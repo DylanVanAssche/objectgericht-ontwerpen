@@ -3,8 +3,8 @@ This repository contains the [draw.io](http://www.draw.io) diagrams for the cour
 
 ## Files
 - use-case.xml version "Server"
-- class.xml version "Server"
-- state.xml version "Server"
+- classes.xml version "Server"
+- states.xml version "Server"
 
 ## License
 Everything in this repository is available under the GPLv3 License.
